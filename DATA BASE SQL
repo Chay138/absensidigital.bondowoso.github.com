@@ -1,0 +1,6 @@
+CREATE TABLE data_absen (
+id INT AUTO_INCREMENT PRIMARY KEY,
+nama VARCHAR(100),
+kelas VARCHAR(50),
+tanggal DATETIME
+);
